@@ -1,4 +1,4 @@
-package materi.OOP.drone;
+package materi.OOP.drone.drone;
 
 public class asdrone1 {
     public static void main(String[] args) {
